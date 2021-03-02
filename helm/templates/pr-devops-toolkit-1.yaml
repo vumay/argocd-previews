@@ -15,7 +15,7 @@ spec:
     helm:
       values: |
         image:
-          tag: "2.6.2"
+          tag: "1.71"
         ingress:
           host: "pr-devops-toolkit-1.52.44.134.120.xip.io"
       version: v3
